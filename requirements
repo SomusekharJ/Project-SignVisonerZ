@@ -1,4 +1,4 @@
 tensorflow
 mediapipe
-opencv
-skilit
+open-cv
+scikit-learn
